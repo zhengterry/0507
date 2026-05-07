@@ -1,0 +1,18 @@
+{
+  "name": "ass-pipeline-task-frontend",
+  "version": "1.0.0",
+  "description": "流水线与调度任务的绑定关系表前端",
+  "scripts": {
+    "dev": "vue serve",
+    "build": "vue build"
+  },
+  "dependencies": {
+    "vue": "^3.3.13",
+    "axios": "^1.6.2",
+    "element-plus": "^2.4.4"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "sass": "^1.69.7"
+  }
+}
