@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "流水线与调度任务的绑定关系表前端",
   "scripts": {
-    "dev": "vue serve",
-    "build": "vue build"
+    "dev": "vue-cli-service serve",
+    "build": "vue-cli-service build"
   },
   "dependencies": {
     "vue": "^3.3.13",
